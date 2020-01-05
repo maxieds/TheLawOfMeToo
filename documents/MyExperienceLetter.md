@@ -1,5 +1,7 @@
 # Open letter to congress and/or senate (my experience as a victim)
 
+## Please pledge your support help to victims of rape and sexual assault nationwide
+
 Dear [US Law Maker Name], 
 
 I am writing to your office to advocate for change nationwide to the state-by-state laws that 
