@@ -52,14 +52,14 @@ This realization took a grave
 toll on me, worsened the acute anxiety and PTSD symptoms I had been manifesting post-rape for years, and led me into a hopeless panicked state 
 of overwhelming depression. In the late summer months of 2019, while extremely intoxicated on alcohol and anti-anxiety sedative medications, 
 I attempted to take my own life rather than continue to cope with what this man had done to me. 
-Later in 2019, I finally decided that a police report documentation should be filed by me so that if this 
+Later in 2019, while trying to reconcile my experiences with my purpose in this life, I finally decided that a police report documentation should be filed by me so that if this 
 man were to ever victimize another woman again, there would be a paper trail to help her heal and move forward. 
 In the process of writing out preliminary drafts of my initial statement to Seattle Police officials, I encountered the following 
-new policy that was adpoted by the WA state legislature in 2019 (see [here](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.04.080)): 
+new policy that was adpoted by the WA state legislature in 2019 (see [Declaration—2019 c 87](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.04.080)): 
 
 >Social service agencies providing support to victims of sexual assault have long known that sexual assault crimes are among the most underreported of all types of crime. According to the department of justice, only two hundred thirty out of every one thousand sexual assaults are reported to police. In the wake of the recent #MeToo movement, this fact has become clear to the broader public.
 >
->The statute of limitations restricts a prosecutor's ability to hold perpetrators accountable when reports of crime are delayed. There are many different reasons why victims of sexual assault delay or even choose to never report the crime that has been committed against them. Advances in the field of neurobiology have demonstrated how sexual assault trauma and trauma responses may contribute to delayed victim reporting. Sometimes the victim is in a relationship with the perpetrator - an employer, parent, teacher, or some other person with supervisory power over the victim – causing the victim to believe that further harm will come to them if they report the crime. Further, technological and scientific advances in investigation, collection, documentation, and preservation of evidence have advanced law enforcement and prosecutorial abilities to investigate and prosecute these older cases. Realizing this, policymakers across the country have reevaluated >and amended statutes of limitation to extend the allowable time to prosecute sexual assault crimes.
+>The statute of limitations restricts a prosecutor's ability to hold perpetrators accountable when reports of crime are delayed. There are many different reasons why victims of sexual assault delay or even choose to never report the crime that has been committed against them. Advances in the field of neurobiology have demonstrated how sexual assault trauma and trauma responses may contribute to delayed victim reporting. Sometimes the victim is in a relationship with the perpetrator - an employer, parent, teacher, or some other person with supervisory power over the victim – causing the victim to believe that further harm will come to them if they report the crime. Further, technological and scientific advances in investigation, collection, documentation, and preservation of evidence have advanced law enforcement and prosecutorial abilities to investigate and prosecute these older cases. Realizing this, policymakers across the country have reevaluated and amended statutes of limitation to extend the allowable time to prosecute sexual assault crimes.
 >
 >It is generally true that the longer a victim waits to report a crime, the more difficult it will be for the case to be successfully prosecuted. However, the statute of limitations should not prohibit prosecution for these heinous offenses when there is adequate evidence. Extending or eliminating the statute of limitations in these cases is imperative to provide access to justice for victims, hold perpetrators accountable, and enhance community protection.
 
@@ -78,6 +78,6 @@ wheels of this important policymaking movement get rolling more broadly towards 
 
 Sincerely, 
 
-[My Name Here]
-[My Email Here]
+[My Name Here] <br/>
+[My Email Here] <br/>
 Georgia State Resident, Florida State Registered Voter
