@@ -2,7 +2,7 @@
 
 ## Please pledge your support help to victims of rape and sexual assault nationwide
 
-Dear [US Law Maker Name], 
+Dear Congressman John Lewis, 
 
 I am writing to your office to advocate for change nationwide to the state-by-state and federal laws that offer statutes of limitation and effective windows of prosecution of offenders to victims of rape and sexual assault. In doing so, I will share my experiences as a survivor and victim of prolonged stalking and rape across the country by an attacker whose name is known to me. Recently, within the past few years, I have finally decided to speak out against my primary attacker to protect myself and feel safe and confident that he would no longer be a threat to raping or victimizing me yet again in my current state of residence, Georgia, where I am currently living to complete my Ph.D. in mathematics at GA Tech. 
 
