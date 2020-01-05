@@ -21,6 +21,7 @@ While I was an undergraduate student and graduate student in Illinois, I was led
 that this man's conspicuous appearances and actions towards me were an innocuous expression of some 
 feigned long-time romantic interest on his part which I could justifyably just ignore as unwanted without any 
 consequences to my physical well being. 
+
 When I moved out of state to Seattle, WA in mid 2014 to pursue my Ph.D. a long way away from any family or 
 friends I had come to know would look out for me before that time, his stalking appearances and 
 actions were markedly more hostile, aggressive, and 
