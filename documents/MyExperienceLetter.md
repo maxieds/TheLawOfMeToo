@@ -80,5 +80,4 @@ wheels of this important policymaking movement get rolling more broadly towards 
 Sincerely, 
 
 [My Name Here] <br/>
-[My Email Here] <br/>
-Georgia State Resident, Florida State Registered Voter
+Georgia State Resident
